@@ -6,6 +6,10 @@ Este repositório representa a entrega do desafio proposto em um dos cursos do p
 
 Implementei os métodos necessários para a aproveitar o menu interativo, seguindo as orientações do desafio. A estrutura base foi aproveitada, e pode ser encontrada na '**Descrição do desafio**' a seguir. Mais detalhes do desafio podem também podem ser encontrados no repositório original.
 
+## Observação!
+
+Para executar o desafio, basta utilizar o comando `dotnet run` em seu terminal com a pasta **DesafioFundamentos** (Contida neste repositório) selecionada. Também é necessário a SDK do .Net instalada previamente.
+
 
 ## Descrição do Desafio
 
